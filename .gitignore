@@ -1,0 +1,29 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+.DS_Store
+
+# Signing files
+.jks
+.keystore
+
+# Local environment
+local.properties
+.env
+
+# Build outputs
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Kotlin
+kotlin-build/
+out/
